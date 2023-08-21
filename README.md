@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patrick-Vasconcelos
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Data Engineer
+- 🌱 I’m currently learning Data Cloud
 - 📫 How to reach me 89patrick89@gmail.com
 
 <!---
